@@ -1,0 +1,4 @@
+.\env\Scripts\activate
+
+mas inf
+https://stackoverflow.com/questions/8921188/issue-with-virtualenv-cannot-activate
